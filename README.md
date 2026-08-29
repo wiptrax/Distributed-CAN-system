@@ -4,6 +4,11 @@ A distributed system using two STM32F446RE microcontrollers communicating over C
 
 ## Demo
 
+https://github.com/user-attachments/assets/26402acd-696a-4f89-b646-a3cc3db6e228
+
+![hardware Setup](https://github.com/user-attachments/assets/baedc69d-e48b-4872-9433-04b55e0568bd)
+
+![Dashboard](https://github.com/user-attachments/assets/6bb07e98-de01-4716-9af4-4904010aabc0)
 
 ## What It Does
 
